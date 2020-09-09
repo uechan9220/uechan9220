@@ -5,3 +5,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=mokeeemokeee&show_icons=true" />
 </div>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=mokeeemokeee&theme=onedark" />
+</div>
